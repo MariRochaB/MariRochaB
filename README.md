@@ -1,6 +1,6 @@
-# Olá! Eu sou a Mari 👩‍💻
+# Olá! Eu sou a Mari 👩🏻‍💻
 
-📊 Pedagoga em transição de carreira para a área da Tecnologia.   
+🤓 Pedagoga em transição de carreira para a área da Tecnologia.   
 🏃 Apaixonada por evolução e café forte ☕
 
 ---
